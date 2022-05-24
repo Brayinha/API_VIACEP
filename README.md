@@ -1,4 +1,4 @@
-# Desafio_API_VIACEP
+# API_VIACEP
 Desafio tem o foco em Consumir uma API dos correios chamada VIACEP, para guardar seu Dados de um Requisição GET em um banco de dados e Enviar esses dados no Email.
 
 # Estrutura do Projeto
